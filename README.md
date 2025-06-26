@@ -32,9 +32,9 @@
    GitHub Stats
 </h2>
 
-![Dwip's GitHub stats](https://github-readme-stats.vercel.app/api?username=DWIP-BISWAS&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DWIP-BISWAS&layout=compact&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DWIP-BISWAS&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+![Dwip's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwip-the-dev&show_icons=true&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwip-the-dev&layout=compact&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dwip-the-dev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ---
 
@@ -43,7 +43,7 @@
    GitHub Trophies
 </h2>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=DWIP-BISWAS&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=dwip-the-dev&theme=radical)
 
 ---
 
