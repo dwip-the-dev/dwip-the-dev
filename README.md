@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20"> Frontend Dev | AI Enthusiast | Creator of <a href="https://dwip-biswas.github.io/Python-for-Losers/">Python For Losers</a> <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20">
+  <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20"> Frontend Dev | AI Enthusiast | Creator of <a href="https://github.com/dwip-the-dev/neo-browser">NeoBrowser</a> <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20">
 </h3>
 
 <p align="center">
@@ -68,8 +68,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [Python For Losers](https://dwip-biswas.github.io/Python-for-Losers/) | The most savage Python course on the internet. | HTML, JS |
-| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Book Emoji" width="20"> [Writer’s World](http://writersworld.netlify.app/) | A lightweight e-book reading platform. | HTML, JS |
+| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [Python For Losers](https://github.com/dwip-the-dev/neo-browser) | Privacy NeoNet Browser. | Python, Electron, JSON, CSS, HTML, JS |
+| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [Python For Losers](https://dwip-biswas.github.io/Python-for-Losers/) | The most savage Python course on the internet. | HTML, JS, CSS |
+| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Book Emoji" width="20"> [Writer’s World](http://writersworld.netlify.app/) | A lightweight e-book reading platform. | HTML, JS, CSS |
 | <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Earth Emoji" width="20"> [My Portfolio](https://github.com/DWIP-BISWAS/My-Portfolio) | My personal portfolio website showcasing my work. | HTML, CSS, JS |
 
 ---
