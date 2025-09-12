@@ -81,8 +81,8 @@
 </h2>
 
 <p align="center">
-  <a href="t.me/dwip_thedev">
-    <img src="https://img.shields.io/badge/Telegram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Telegram">
+  <a href="https://t.me/dwip_thedev">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://m.youtube.com/channel/UCjnyJV9D4uBUeviYn9OQlMA">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
