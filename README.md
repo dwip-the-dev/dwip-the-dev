@@ -68,10 +68,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [Python For Losers](https://github.com/dwip-the-dev/neo-browser) | Privacy NeoNet Browser. | Python, Electron, JSON, CSS, HTML, JS |
-| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [Python For Losers](https://dwip-biswas.github.io/Python-for-Losers/) | The most savage Python course on the internet. | HTML, JS, CSS |
+| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [NeoBrowser](https://github.com/dwip-the-dev/neo-browser) | Privacy NeoNet Browser. | Python, Electron, JSON, CSS, HTML, JS |
+| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [Python For Losers](https://pythonforlosers.netlify.app/) | The most savage Python course on the internet. | HTML, JS, CSS |
 | <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Book Emoji" width="20"> [Writer’s World](http://writersworld.netlify.app/) | A lightweight e-book reading platform. | HTML, JS, CSS |
-| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Earth Emoji" width="20"> [My Portfolio](https://github.com/DWIP-BISWAS/My-Portfolio) | My personal portfolio website showcasing my work. | HTML, CSS, JS |
+| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Earth Emoji" width="20"> [My Portfolio](https://dwipbiswas.netlify.app/) | My personal portfolio website showcasing my work. | HTML, CSS, JS |
 
 ---
 
@@ -81,13 +81,13 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/__dwipbiswas__/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="t.me/dwip_thedev">
+    <img src="https://img.shields.io/badge/Telegram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://m.youtube.com/channel/UCjnyJV9D4uBUeviYn9OQlMA">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://github.com/DWIP-BISWAS">
+  <a href="https://github.com/dwip-the-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
