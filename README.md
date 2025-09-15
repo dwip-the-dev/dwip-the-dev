@@ -36,7 +36,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-ebon-iota.vercel.app?user=dwip-the-dev&theme=radical&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dwip-the-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dwip-the-dev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 [![GitHub Streak2](https://github-readme-streak-stats-ebon-iota.vercel.app?user=dwip-the-dev&theme=radical&hide_total_contributions=true)](https://git.io/streak-stats)
 
