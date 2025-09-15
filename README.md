@@ -47,7 +47,7 @@
    GitHub Trophies
 </h2>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dwip-the-dev&theme=radical)
+![trophy](https://github-trophies.vercel.app/?username=dwip-the-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
