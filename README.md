@@ -32,6 +32,7 @@
    GitHub Stats
 </h2>
 
+![score](https://github-readme-stats.vercel.app/api?username=dwip-the-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 [![GitHub Streak](https://github-readme-streak-stats-ebon-iota.vercel.app?user=dwip-the-dev&theme=radical&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwip-the-dev&layout=compact&theme=radical&langs_count=50)
 [![GitHub Streak2](https://github-readme-streak-stats-ebon-iota.vercel.app?user=dwip-the-dev&theme=radical&hide_total_contributions=true)](https://git.io/streak-stats)
