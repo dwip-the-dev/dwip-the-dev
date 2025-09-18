@@ -32,7 +32,7 @@
    GitHub Stats
 </h2>
 
-![score](https://github-readme-stats.vercel.app/api?username=dwip-the-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![score](https://github-readme-stats.vercel.app/api?username=dwip-the-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats-ebon-iota.vercel.app?user=dwip-the-dev&theme=radical&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
