@@ -106,7 +106,7 @@
 | <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [NeoBrowser](https://github.com/dwip-the-dev/neo-browser) | Privacy NeoNet Browser. | Python, Electron, JSON, CSS, HTML, JS |
 | <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [Python For Losers](https://pythonforlosers.netlify.app/) | The most savage Python course on the internet. | HTML, JS, CSS |
 | <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Book Emoji" width="20"> [Writer’s World](http://writersworld.netlify.app/) | A lightweight e-book reading platform. | HTML, JS, CSS |
-| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Earth Emoji" width="20"> [My Portfolio](https://dwipbiswas.netlify.app/) | My personal portfolio website showcasing my work. | HTML, CSS, JS |
+| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Earth Emoji" width="20"> [My Portfolio](https://dwipbiswas.netlify.app/) | My personal portfolio website showcasing my work. | HTML, REACT, VITE, TAILWIND CSS, TYPESCRIPT |
 
 ---
 
