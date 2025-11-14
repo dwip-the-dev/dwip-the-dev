@@ -40,7 +40,7 @@
 
 [![GitHub Streak2](https://github-readme-streak-stats-ebon-iota.vercel.app?user=dwip-the-dev&theme=radical&hide_total_contributions=true)](https://git.io/streak-stats)
 
-https://www.codewars.com/users/dwip-the-dev/badges/large
+[codewars](https://www.codewars.com/users/dwip-the-dev/badges/large)
 ---
 
 <h2>
