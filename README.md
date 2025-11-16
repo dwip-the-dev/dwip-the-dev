@@ -60,39 +60,15 @@
 
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
-  <img src="https://img.shields.io/badge/inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" />
-  <img src="https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-  <img src="https://img.shields.io/badge/cmake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
 </p>
 
 
@@ -108,7 +84,7 @@
 | <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [NeoBrowser](https://github.com/dwip-the-dev/neo-browser) | Privacy NeoNet Browser. | Python, Electron, JSON, CSS, HTML, JS |
 | <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [Python For Losers](https://pythonforlosers.netlify.app/) | The most savage Python course on the internet. | HTML, JS, CSS |
 | <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Book Emoji" width="20"> [Writer’s World](http://writersworld.netlify.app/) | A lightweight e-book reading platform. | HTML, JS, CSS |
-| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Earth Emoji" width="20"> [My Portfolio](https://dwipbiswas.netlify.app/) | My personal portfolio website showcasing my work. | HTML, React, Vite, Tailwind CSS, TypeScript |
+| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Earth Emoji" width="20"> [My Portfolio](https://dwip.me) | My personal portfolio website showcasing my work. | HTML, React, Vite, Tailwind CSS, TypeScript |
 
 ---
 
