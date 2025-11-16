@@ -32,13 +32,17 @@
    GitHub Stats
 </h2>
 
-![g score](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dwip-the-dev&theme=radical)<br/>
+<!-- GitHub Stats -->
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dwip-the-dev&theme=radical&v=20250217-14)
 
-[![GitHub Streak](https://github-readme-streak-stats-ebon-iota.vercel.app?user=dwip-the-dev&theme=radical&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+<!-- Streak Stats (Minimal) -->
+[![GitHub Streak](https://github-readme-streak-stats-ebon-iota.vercel.app?user=dwip-the-dev&theme=radical&hide_current_streak=true&hide_longest_streak=true&cache_seconds=7200)](https://git.io/streak-stats)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dwip-the-dev&layout=compact&theme=radical&langs_count=20)
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwip-the-dev&layout=compact&theme=radical&langs_count=20&cache_seconds=7200)
 
-[![GitHub Streak2](https://github-readme-streak-stats-ebon-iota.vercel.app?user=dwip-the-dev&theme=radical&hide_total_contributions=true)](https://git.io/streak-stats)
+<!-- Streak Stats (Alternate) -->
+[![GitHub Streak 2](https://github-readme-streak-stats-ebon-iota.vercel.app?user=dwip-the-dev&theme=radical&hide_total_contributions=true&cache_seconds=7200)](https://git.io/streak-stats)
 
 [![Codewars](https://www.codewars.com/users/dwip-the-dev/badges/large)](https://www.codewars.com/users/dwip-the-dev)
 
