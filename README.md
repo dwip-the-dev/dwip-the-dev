@@ -5,11 +5,11 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20"> Full-Stack Dev | Creator of <a href="https://github.com/dwip-the-dev/neo-browser">NeoBrowser</a> <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20">
+  <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20"> Full-Stack Dev | Creator of <a href="https://github.com/dwip-the-dev/WO-Files">WO Files</a> <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20">
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=4000&color=FF0000&center=true&vCenter=true&width=600&lines=I+break+things+and+sometimes+fix+them;Currently+in+love+with+python;Never+wrote+a+code+that+ran+on+1st+try" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=4000&color=FF0000&center=true&vCenter=true&width=600&lines=I+break+things+and+fix+them;Currently+in+love+with+python;Feeling+cool+af" alt="Typing Animation">
 </p>
 
 ---
@@ -85,10 +85,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [NeoBrowser](https://github.com/dwip-the-dev/neo-browser) | Privacy NeoNet Browser. | Python, Electron, JSON, CSS, HTML, JS |
-| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [Python For Losers](https://pythonforlosers.netlify.app/) | The most savage Python course on the internet. | HTML, JS, CSS |
-| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Book Emoji" width="20"> [Writer’s World](http://writersworld.netlify.app/) | A lightweight e-book reading platform. | HTML, JS, CSS |
 | <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Earth Emoji" width="20"> [My Portfolio](https://dwip.me) | My personal portfolio website showcasing my work. | HTML, React, Vite, Tailwind CSS, TypeScript |
+| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [LemonOS](https://lemonos.netlify.app/) | A OS written from scratch. | C, Assembly |
+| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Book Emoji" width="20"> [WO Files](https://github.com/dwip-the-dev/WO-Files) | A lightweight customizable file manager. | C |
+| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [NeoBrowser](https://github.com/dwip-the-dev/neo-browser) | Privacy NeoNet Browser. | Python, Electron, JSON, CSS, HTML, JS |
 
 ---
 
