@@ -29,17 +29,18 @@
 
 <h2>
   <img src="https://i.giphy.com/eB5WYVSaOT0qUmHOWA.webp" width="40">
-   GitHub Stats
+  GitHub Stats
 </h2>
 
-<!-- GitHub Stats -->
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dwip-the-dev&theme=radical&v=20250217-14)
+<!-- GitHub Stats (cache-busted) -->
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dwip-the-dev&theme=radical&v=2025-12-16)
 
-<!-- Streak Stats (Minimal) -->
-[![GitHub Streak](https://github-readme-streak-stats-ebon-iota.vercel.app?user=dwip-the-dev&theme=radical&hide_current_streak=true&hide_longest_streak=true&cache_seconds=7200)](https://git.io/streak-stats)
+<!-- GitHub Streak (official, fast refresh) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=dwip-the-dev&theme=radical&hide_current_streak=true&hide_longest_streak=true&cache_seconds=1800)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwip-the-dev&layout=compact&theme=radical&langs_count=20&cache_seconds=7200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwip-the-dev&layout=compact&theme=radical&langs_count=20&cache_seconds=1800)
+
 
 <!-- Streak Stats (Alternate) -->
 [![GitHub Streak 2](https://github-readme-streak-stats-ebon-iota.vercel.app?user=dwip-the-dev&theme=radical&hide_total_contributions=true&cache_seconds=7200)](https://git.io/streak-stats)
