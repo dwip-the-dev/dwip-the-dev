@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20"> Full-Stack Dev | Creator of <a href="https://github.com/dwip-the-dev/WO-Files">WO Files</a> <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20">
+  <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20"> Full-Stack Dev | Creator of <a href="https://github.com/dwip-the-dev/WO-Files">WO Files</a>  | HAPPY NEW YEAR 2026!!! New Year, New Goals <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20">
 </h3>
 
 <p align="center">
