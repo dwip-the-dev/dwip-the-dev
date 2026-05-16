@@ -87,7 +87,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Earth Emoji" width="20"> [My Portfolio](https://dwip.me) | My personal portfolio website showcasing my work. | HTML, React, Vite, Tailwind CSS, TypeScript |
-| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [LemonOS](https://lemonos.netlify.app/) | A OS written from scratch. | C, Assembly |
+| <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [LemonOS](https://lemonos.dwip.dedyn.io/) | A OS written from scratch. | C, Assembly |
 | <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Book Emoji" width="20"> [WO Files](https://github.com/dwip-the-dev/WO-Files) | A lightweight customizable file manager. | C |
 | <img src="https://media.tenor.com/7AO6EabceqIAAAAi/cheers.gif" alt="Skull Emoji" width="20"> [NeoBrowser](https://github.com/dwip-the-dev/neo-browser) | Privacy NeoNet Browser. | Python, Electron, JSON, CSS, HTML, JS |
 
