@@ -33,7 +33,7 @@
 </h2>
 
 <!-- GitHub Stats (cache-busted) -->
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dwip-the-dev&theme=radical&v=2025-12-16)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dwip-the-dev&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=dwip-the-dev&show_icons=true&include_all_commits=true&theme=radical)
 
 <!-- GitHub Streak (official, fast refresh) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=dwip-the-dev&theme=radical&hide_current_streak=true&hide_longest_streak=true&cache_seconds=1800)
