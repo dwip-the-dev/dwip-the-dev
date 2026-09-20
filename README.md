@@ -39,7 +39,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=dwip-the-dev&theme=radical&hide_current_streak=true&hide_longest_streak=true&cache_seconds=1800)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwip-the-dev&layout=compact&theme=radical&langs_count=20&cache_seconds=1800)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dwip-the-dev&layout=compact&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=dwip-the-dev&layout=compact&langs_count=4&theme=dark_github)
 
 
 <!-- Streak Stats (Alternate) -->
