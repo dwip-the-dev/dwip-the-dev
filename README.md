@@ -45,8 +45,6 @@
 <!-- Streak Stats (Alternate) -->
 [![GitHub Streak 2](https://github-readme-streak-stats-ebon-iota.vercel.app?user=dwip-the-dev&theme=radical&hide_total_contributions=true&cache_seconds=7200)](https://git.io/streak-stats)
 
-[![Codewars](https://www.codewars.com/users/dwip-the-dev/badges/large)](https://www.codewars.com/users/dwip-the-dev)
-
 ---
 
 <h2>
