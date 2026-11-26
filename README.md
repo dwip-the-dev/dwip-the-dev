@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20"> Something big coming up! <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20">
+  <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20"> Welcome! <img src="https://media.tenor.com/Df9PVmGjlrIAAAAi/minecraft-piglin.gif" alt="Fire Emoji" width="20">
 </h3>
 
 <p align="center">
